@@ -1,5 +1,5 @@
 # Welcome!
-I am James, a third year mathematics student at the University of Durham, with a passion for technology.
+I'm James, a third year mathematics student at the University of Durham, with a passion for technology.
 
 ## Quick Links
 * [CV](https://github.com/james-2001/CV.md)
