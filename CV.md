@@ -19,7 +19,7 @@ I'm James, a current third year Mathematics student at Durham University. I am s
 * AWS Cloudformation
     * During my time at Barclays my project involved automating many steps of deploying a serverless react application onto AWS. This required using cloudformation templates in YAML to create a number of resources, ranging from S3 buckets, load balancers, security keys and many more. We then used the AWS SAM CLI to deploy and manage these resources.
 * JavaScript
-    * I have familiarity using basic JS syntax, and a rudimentary of the React framework. During my time at Barclays I used React to design a basic UI that allowed users input data, and then make HTTP requests to communicate with an AWS Lambda.
+    * I have familiarity using basic JS syntax, and a rudimentary understanding of the React framework. During my time at Barclays I used React to design a basic UI that allowed users input data, and then make HTTP requests to communicate with an AWS Lambda.
 * R
     * During my time at university I have used the R language during my Statistics courses to complete statistical analysis on data, for example with bayesian analysis, linear regression, and both parametric and non parametric hypothesis testing.
 
